@@ -1,0 +1,30 @@
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg-color: #000028;
+    --accent-color: #ff0070;
+    --h1-color: #db00ff;
+    --hover-border-color: rgba(255, 0, 112, 0.4);
+    --nav-menu-color: #ff0070;
+    --p-color: #f1b2ce;
+    --title-text-color: #000028;
+    --title-bg-color: #ff0070;
+    --display-rec: flex;
+  }
+
+  .page {
+    background-image: url(../images/cover-image-dark.png);
+  }
+}
+
+.page.theme_dark {
+  --bg-color: #000028;
+  --accent-color: #ff0070;
+  --h1-color: #db00ff;
+  --hover-border-color: rgba(255, 0, 112, 0.4);
+  --nav-menu-color: #ff0070;
+  --p-color: #f1b2ce;
+  --title-text-color: #000028;
+  --title-bg-color: #ff0070;
+  --display-rec: flex;
+  background-image: url(../images/cover-image-dark.png);
+}
