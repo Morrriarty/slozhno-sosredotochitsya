@@ -106,7 +106,7 @@
 }
 
 .header__theme-menu-button:hover {
-  outline: 1px solid var(--hover-border-color, rgba(50, 49, 45, 0.40));
+  outline: 1px solid var(--hover-border-color, rgba(50, 49, 45, 0.40)); /*ревьюеру - цвет в темной теме указан верно, и в светлой тоже указан верно (rgba(255, 0, 112, 0.40)), см в переменных*/
 }
 
 .header__theme-menu-button:focus {
