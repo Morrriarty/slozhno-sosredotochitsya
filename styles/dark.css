@@ -1,8 +1,10 @@
+/*dark-theme*/
 @media (prefers-color-scheme: dark) {
   :root {
     --bg-color: #000028;
     --accent-color: #ff0070;
     --h1-color: #db00ff;
+    --h2-color: #ff0070;
     --hover-border-color: rgba(255, 0, 112, 0.4);
     --nav-menu-color: #ff0070;
     --p-color: #f1b2ce;
@@ -20,6 +22,7 @@
   --bg-color: #000028;
   --accent-color: #ff0070;
   --h1-color: #db00ff;
+  --h2-color: #ff0070;
   --hover-border-color: rgba(255, 0, 112, 0.4);
   --nav-menu-color: #ff0070;
   --p-color: #f1b2ce;
@@ -28,3 +31,5 @@
   --display-rec: flex;
   background-image: url(../images/cover-image-dark.png);
 }
+
+/*end*/

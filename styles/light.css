@@ -1,7 +1,9 @@
+/*light-theme*/
 .page.theme_light {
   --bg-color: #353430;
   --accent-color: #FF8DCB;
   --h1-color: #FFC2E6;
+  --h2-color: #353430;
   --hover-border-color: rgba(255, 0, 112, 0.4);
   --nav-menu-color: #353430;
   --p-color: #353430;
@@ -11,3 +13,5 @@
   --display-rec: none;
   background-image: url(../images/cover-image-light.png);
 }
+
+/*end*/
